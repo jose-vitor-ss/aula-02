@@ -1,2 +1,2 @@
 # aula-git02
-aula 0
+# Primeira aula com comandos
